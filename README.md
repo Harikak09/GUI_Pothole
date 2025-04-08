@@ -1,10 +1,10 @@
-## 🛣️ Pothole Detection Using YOLOv8  
+## Pothole Detection Using YOLOv8  
 
-🚗 **Pothole Detection** is a deep-learning-based application that identifies road damage, particularly potholes, using **YOLOv8**. This project aims to assist in road maintenance and autonomous driving by providing an efficient way to detect and classify potholes.  
+**Pothole Detection** is a deep-learning-based application that identifies road damage, particularly potholes, using **YOLOv8**. This project aims to assist in road maintenance and autonomous driving by providing an efficient way to detect and classify potholes.  
 
 ---
 
-## **📌 Features**  
+## **Features**  
 ✅ Real-time pothole detection using YOLOv8  
 ✅ Lightweight and efficient model  
 ✅ User-friendly GUI built with PyQt  
@@ -12,10 +12,10 @@
 
 ---
 
-## **🚀 Download & Run the Application**  
+## **Download & Run the Application**  
 You can download the latest version of the application from **GitHub Releases**:  
 
-🔗 **[Download Here](https://github.com/Harikak09/GUI_Pothole/releases/latest)**  
+**[Download Here](https://github.com/Harikak09/GUI_Pothole/releases/latest)**  
 
 ### **How to Run the Application (Windows)**  
 1. **Download the `.exe` file** from the link above.  
@@ -26,20 +26,20 @@ You can download the latest version of the application from **GitHub Releases**:
 
 ---
 
-## **🖼️ Example Outputs**  
+## **Example Outputs**  
 | Input Image | Detection Output |  
 |-------------|----------------|  
 | ![Input](https://github.com/Harikak09/GUI_Pothole/blob/main/input.png) | ![Output](https://github.com/Harikak09/GUI_Pothole/blob/main/output.png) |  
 
 ---
 
-## **📝 Model Details**  
+## **Model Details**  
 - **Model:** YOLOv8 (trained on a custom dataset for pothole detection)  
 - **Framework:** PyTorch  
 - **Dataset:** Annotated road damage images from various sources on **Roboflow** 
-- **Accuracy:** ~72% Precision, ~70% Recall (can be improved)  
+- **Accuracy** of 81.65%, **precision** of 81.40% and **recall** of 81.89%.
 
 ---
 
-## **📩 Contact**  
+## **Contact**  
 If you have any issues or suggestions, feel free to open an **issue** or **reach out**.  
